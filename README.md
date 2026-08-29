@@ -1,2 +1,6 @@
 # AUTOMAÇÃO | Falteiro_Pacheco
-Descrever o que o projeto faz 
+
+Esse sistema tem como finalidade a solicitação de novos produtos quando constam apenas 2 ou menos no estoque.
+
+
+
